@@ -76,3 +76,7 @@ left: 50%;
 margin: -32px 0 0 -170px;
 }
 
+div {
+  position:relative;
+  width:100%;
+}

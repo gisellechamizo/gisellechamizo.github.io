@@ -72,7 +72,7 @@ section a{
 }
 
 section {
-  position: relative;
+  position: absolute;
 }
 
 section a {

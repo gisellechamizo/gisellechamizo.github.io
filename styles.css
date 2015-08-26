@@ -59,8 +59,8 @@ height: 250px;
 width: 100%;
 }
 section a{
-color: #red;
-border: 1px solid #red;
+color: red;
+border: 1px solid red;
 padding: 20px;
 text-decoration: none;
 text-transform: uppercase;

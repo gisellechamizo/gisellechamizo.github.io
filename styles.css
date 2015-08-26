@@ -18,6 +18,7 @@ a:visited {
     font-family: Futura, trebuchet;
     background-image: url(http://41.media.tumblr.com/a4e8abfbb1a0be769bc06aa2a61eeff7/tumblr_nsoart1B4L1qfirfao1_1280.jpg);
     background-size:cover;
+    margin:0;
     
   }
   /*CHANGE THE COLOR OF YOUR h1 CSS*/
@@ -50,5 +51,8 @@ nav a:visited{
 
 section {
     background-color: red;
+    height:500px;
+    width:100%;
+    
 }
 

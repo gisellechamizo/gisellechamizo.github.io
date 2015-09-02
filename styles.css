@@ -82,3 +82,9 @@ video{
 width: 100%;
 }
 
+iframe{
+  width:69%;
+  height:500px;
+  margin:0px auto;
+}
+

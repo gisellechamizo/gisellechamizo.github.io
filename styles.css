@@ -1,18 +1,15 @@
 a {
 color: darkOrange;
 text-decoration: none;
-font-size: 8px;
+font-size: 13px;
 }
 a:hover {
 color: white;
 text-decoration: none;
-font-size: 10px;
+font-size: 15px;
 }
-a:visited {
-color: green;
-}
+
 body{
-background-color:YellowGreen;
 color: #DCEDC8;
 font-family: Futura, trebuchet;
 background-image: url(http://41.media.tumblr.com/a4e8abfbb1a0be769bc06aa2a61eeff7/tumblr_nsoart1B4L1qfirfao1_1280.jpg);
@@ -57,7 +54,7 @@ width: 100%;
 }
 section a{
 color: #FFF;
-border: 1px solid #fff;
+border: 2px solid #fff;
 padding: 20px;
 text-decoration: none;
 text-transform: uppercase;
@@ -84,7 +81,7 @@ width: 100%;
 
 iframe{
   width:69%;
-  height:500px;
+  height:600px;
   margin:0px auto;
 }
 

@@ -67,9 +67,7 @@ background: -o-linear-gradient(-45deg,  rgba(255,207,155,1) 0%,rgba(255,196,125,
 background: -ms-linear-gradient(-45deg,  rgba(255,207,155,1) 0%,rgba(255,196,125,1) 38%,rgba(255,167,85,1) 77%,rgba(255,167,85,1) 77%,rgba(255,168,87,1) 100%);
 background: linear-gradient(135deg,  rgba(255,207,155,1) 0%,rgba(255,196,125,1) 38%,rgba(255,167,85,1) 77%,rgba(255,167,85,1) 77%,rgba(255,168,87,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcf9b', endColorstr='#ffa857',GradientType=1 );
-
-
-background-color: red;
+opacity:30%;
 height: 500px;
 width: 100%;
 }
@@ -93,18 +91,14 @@ top: 50%;
 left: 50%;
 margin: -32px 0 0 -170px;
 }
+
+section video {
+  
+}
 div {
 height: 350px;
 }
-#video_container {
- bottom: 0;
- left: 0;
- position: absolute;
- top: 0;
- width: 100%;
- background: url(polina.jpg) no-repeat;
- min-height: 720px;
-}
+
 #bgvid {
  min-width: 100%;
 }

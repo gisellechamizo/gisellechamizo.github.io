@@ -32,11 +32,12 @@ font-family: Futura, trebuchet;
 background-image: url(http://40.media.tumblr.com/d00f52e7a74602166a482024672f63e7/tumblr_npg9mk4I7u1qfirfao1_1280.jpg);
 background-size:cover;
 margin:0;
+height:900px;
 }
 /*CHANGE THE COLOR OF YOUR h1 CSS*/
 h1 {
-color:#212121;
-font-family: Pacifico;
+color:white;
+font-family: Futura;
 font-size: 100px;
 text-shadow: -3px 0 red, 3px 0 cyan;
 0px -1px 4px white, 0px -2px 10px yellow, 0px -10px 20px orange;

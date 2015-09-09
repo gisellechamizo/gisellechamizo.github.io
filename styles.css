@@ -96,8 +96,17 @@ margin: -32px 0 0 -170px;
 div {
 height: 350px;
 }
-video{
-width: 100%;
+#video_container {
+ bottom: 0;
+ left: 0;
+ position: absolute;
+ top: 0;
+ width: 100%;
+ background: url(polina.jpg) no-repeat;
+ min-height: 720px;
+}
+#bgvid {
+ min-width: 100%;
 }
 
 iframe{

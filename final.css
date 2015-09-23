@@ -1,3 +1,6 @@
+.nav {
+  background-color:#FF6600;
+}
 .nav a {
   font-family: 'Abel', sans-serif;
   color: #5a5a5a;
@@ -25,7 +28,7 @@
 
 .jumbotron h1 {
   font-family: 'Lobster', cursive;
-  color: ##FF6600;
+  color: #FF6600;
   font-size: 80px;  
 font-weight: bold;
 }

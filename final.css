@@ -83,13 +83,3 @@ position:center;
   font-size:20px;
 }
 
-/* Social Media Icons
------------------------------------------------ */
-a.socialIcons {
-margin-right: 5px; /* Increase the number to increase the space between the icons */
-}
-
-a.socialIcons:hover {
-opacity: .8;
-filter:alpha(opacity=80); /* For IE8 and earlier */
-}

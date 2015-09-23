@@ -1,6 +1,7 @@
 .nav a {
+  font-family: 'Abel', sans-serif;
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 15px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -23,6 +24,7 @@
 }
 
 .jumbotron h1 {
+  font-family: 'Lobster', cursive;
   color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;

@@ -45,8 +45,9 @@ position:center;
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-family: 'Lobster', cursive;
+    color: #00CC00;
+  font-size: 30px;
   font-weight: bold;
 }
 

@@ -33,7 +33,6 @@ text-decoration: none;
 body{
 color: #DCEDC8;
 font-family: Arvo;
-background-image: url(http://payload337.cargocollective.com/1/17/574234/9042531/FG-197_3008.jpg);
 background-size:cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -96,9 +95,7 @@ left: 50%;
 margin: -32px 0 0 -170px;
 }
 
-div {
-  height: 350px;
-}
+
 
 .video{
   width: 100%;
